@@ -1,5 +1,7 @@
 ### Olá!! Eu sou o Higor Machado 👋
 
+👨‍💻 Graduando no curso de Tecnologia em análise e desenvolvimento de sistemas na UERJ-ZO 👨‍💻
+
 😀 Iniciante no mundo de desenvolvimento web 🖥️
 
 <div align="center">
